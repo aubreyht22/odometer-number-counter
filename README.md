@@ -1,2 +1,2 @@
 # odometer-number-counter
-Master working odometer number counter (from CodePen)
+Master working odometer number counter (from GitHub)
